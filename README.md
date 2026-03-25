@@ -46,7 +46,7 @@ research_topic_agent/
 source .venv/bin/activate
 
 # 运行选题Agent
-python research_topic_agent/main.py
+python run_agent.py
 ```
 
 ## 使用示例
